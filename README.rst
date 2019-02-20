@@ -1,5 +1,5 @@
 ======================
-cookiecutter-pylibrary
+cookiecutter-pylibrary 
 ======================
 
 Cookiecutter_ template for a Python python library. |travis| |appveyor| |requiresio|
