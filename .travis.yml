@@ -8,6 +8,8 @@ cache:
 env:
   global:
     LD_PRELOAD=/lib/x86_64-linux-gnu/libSegFault.so
+  matrix:
+    - ENV=plain-pytest-plain-py3doc-flake8
 before_install:
   - python --version
   - virtualenv --version
